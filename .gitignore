@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+#excel
+*.xlsx
+
+#vscode
+.vscode
